@@ -1,0 +1,7 @@
+/dataset/negative
+/dataset/positive_raw
+/dataset/negative_raw
+
+/__pycache__
+/tts_env
+/venv
